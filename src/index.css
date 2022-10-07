@@ -23,7 +23,7 @@ code {
 .cloth-carousel {
   position: absolute;
   left: 0;
-  bottom: 10%;
+  bottom: 4%;
   width: 100vw;
   display: inline-flex;
   gap: 8px;
@@ -41,6 +41,7 @@ code {
   border-radius: 50%;
 }
 .cloth img {
+  pointer-events: none;
   height: 60px;  
 }
 

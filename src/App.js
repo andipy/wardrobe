@@ -8,7 +8,7 @@ function App() {
   const [chest, setChest] = useState('');
   const [legs, setLegs] = useState('');
 
-  function handleChest(e) {
+  function handleCloth(e) {
     for ( var i = 0; i < data.length; i++ ) {
       if ( data[i].id == e.target.id && data[i].body_part == 'chest' ) {
         setChest(data[i]);
@@ -41,7 +41,7 @@ function App() {
               className="cloth"
               id={item.id}
               key={item.id}
-              onClick={handleChest}
+              onClick={handleCloth}
             >
               <img
                 src={item.cloth}
