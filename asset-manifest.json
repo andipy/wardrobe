@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wardrobe/static/css/main.ff6da259.css",
-    "main.js": "/wardrobe/static/js/main.cafd85bf.js",
-    "static/media/avatar.png": "/wardrobe/static/media/avatar.c462b7d7a75d8df67056.png",
+    "main.css": "/wardrobe/static/css/main.bb2e1ee4.css",
+    "main.js": "/wardrobe/static/js/main.9f3292dc.js",
+    "static/media/avatar.png": "/wardrobe/static/media/avatar.750e2b729f72844a7cce.png",
     "static/media/green-sweater.png": "/wardrobe/static/media/green-sweater.1ac2658f3b959bce5cb5.png",
     "static/media/orange-t-shirt.png": "/wardrobe/static/media/orange-t-shirt.0871eea05b639eb32449.png",
     "static/media/violet-sweater.png": "/wardrobe/static/media/violet-sweater.70b396065bcbb61005dd.png",
@@ -10,11 +10,11 @@
     "static/media/violet-t-shirt.png": "/wardrobe/static/media/violet-t-shirt.f17e2fe1cea052a646a4.png",
     "static/media/t-shirt-green.png": "/wardrobe/static/media/t-shirt-green.1449f01dbc64eb0e52d6.png",
     "index.html": "/wardrobe/index.html",
-    "main.ff6da259.css.map": "/wardrobe/static/css/main.ff6da259.css.map",
-    "main.cafd85bf.js.map": "/wardrobe/static/js/main.cafd85bf.js.map"
+    "main.bb2e1ee4.css.map": "/wardrobe/static/css/main.bb2e1ee4.css.map",
+    "main.9f3292dc.js.map": "/wardrobe/static/js/main.9f3292dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff6da259.css",
-    "static/js/main.cafd85bf.js"
+    "static/css/main.bb2e1ee4.css",
+    "static/js/main.9f3292dc.js"
   ]
 }
