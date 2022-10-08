@@ -6,9 +6,9 @@ import { ClothesContextProvider } from "./context/ClothesContext";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  //<React.StrictMode>
     <ClothesContextProvider>
       <App />
     </ClothesContextProvider>
-  </React.StrictMode>
+  //</React.StrictMode>
 );
