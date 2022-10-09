@@ -9,7 +9,7 @@ function Intro() {
     <div className="container">
       <h1>Intro, please read carefully!</h1>
       
-      <p>Here you will find two versions of the garment browsing and fitting interaction inside the fitting room, meaning the way you browse the garments in the fitting room and apply them on the avatar.</p>
+      <p><span className="highlight">Here you will find two different versions of the way you browse the garments in the fitting room and apply them on the avatar.</span></p>
 
       <span className="highlight">Scenario:</span>
       <ul>
