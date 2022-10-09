@@ -75,6 +75,10 @@ function App() {
           </div>
         </div>
 
+        <div className="cloth-carousel-fake">
+          <div className="selected-garment"></div>          
+        </div>                
+
         <div className="cloth-carousel" onScroll={scroll}>
           <div className="inner-carousel" >
           {garments.map((item) => {
